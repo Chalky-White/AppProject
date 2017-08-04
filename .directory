@@ -1,0 +1,9 @@
+[Dolphin]
+HeaderColumnWidths=183,94,118
+Timestamp=2017,8,4,20,5,16
+Version=3
+ViewMode=1
+VisibleRoles=Icons_text,Icons_path,Icons_destination
+
+[Settings]
+HiddenFilesShown=true
